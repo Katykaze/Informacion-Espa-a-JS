@@ -1,0 +1,21 @@
+const provincias = new Map([
+    ['Andalucia',['Almería','Granada', 'Málaga', 'Jaén', 'Córdoba', 'Sevilla', 'Cádiz','Huelva', 'Sevilla']],
+    ['Aragon', ['Huesca', 'Teruel', 'Zaragoza']],
+    ['Principado de Asturias', ['Asturias']],
+    ['Islas Baleares',['Illes Balears']],
+    ['Pais Vasco',['Bizkaia', 'Gipuzkoa', 'Araba', 'Navarra', 'Lapurdi', 'Behe Nafarroa', 'Zuberoa']],
+    ['Canarias',['Santa Cruz de Tenerife', 'Las Palmas']],
+    ['Cantabria',['Cantabria']],
+    ['Castilla La Mancha',['Albacete', 'Ciudad Real', 'Cuenca', 'Guadalajara', 'Toledo']],
+    ['Castilla y Leon',['Ávila', 'Burgos', 'León', 'Palencia', 'Salamanca', 'Segovia', 'Soria', 'Valladolid', 'Zamora']],
+    ['Cataluna',['Barcelona', 'Gerona', 'Lérida', 'Tarragona']],
+    ['Extremadura',['Cáceres', 'Badajoz']],
+    ['Galicia',['La Coruña']],
+    ['Madrid',['Madrid']],
+    ['Murcia',['Murcia']],
+    ['Navarra',['Navarra']],
+    ['Rioja',['La Rioja']],
+    ['Valencia',['Castellón', 'Valencia', 'Alicante']],
+    ['Ceuta',['Ceuta']],
+    ['Melilla',['Melilla']]
+]);
